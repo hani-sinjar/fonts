@@ -1,5 +1,5 @@
 name: "Mulish"
-designer: "Vernon Adams, Cyreal, Jacques Le Bailly"
+designer: "Vernon Adams"
 license: "OFL"
 category: "SANS_SERIF"
 date_added: "2011-05-25"
@@ -17,8 +17,8 @@ fonts {
   style: "italic"
   weight: 400
   filename: "Mulish-Italic[wght].ttf"
-  post_script_name: "Mulish-ExtraLightItalic"
-  full_name: "Mulish ExtraLight Italic"
+  post_script_name: "Mulish-M0SlantItalic"
+  full_name: "Mulish M0 Slant Italic"
   copyright: "Copyright 2016 The Mulish Project Authors (https://github.com/googlefonts/mulish)"
 }
 subsets: "cyrillic"
@@ -31,4 +31,8 @@ axes {
   tag: "wght"
   min_value: 200.0
   max_value: 1000.0
+}
+source {
+  repository_url: "https://github.com/googlefonts/mulish"
+  commit: "56f275e8ad7fe7daf7fde47fa2d283a3d49a07a1"
 }
