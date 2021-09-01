@@ -1,5 +1,5 @@
 name: "Signika"
-designer: "Ancymonic"
+designer: "Anna Giedryś"
 license: "OFL"
 category: "SANS_SERIF"
 date_added: "2011-11-23"
