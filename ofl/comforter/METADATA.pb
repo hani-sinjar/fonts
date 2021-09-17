@@ -17,7 +17,3 @@ subsets: "latin"
 subsets: "latin-ext"
 subsets: "menu"
 subsets: "vietnamese"
-source {
-  repository_url: "https://github.com/googlefonts/comforter"
-  commit: "9d9f0db4b5c5bcce6840ae6dea893ec0c4f75e50"
-}
