@@ -1,7 +1,7 @@
-id: "ku_Yezi"
-language: "ku"
+id: "Yezi"
+language: "Ezidi"
 script: "Yezi"
-name: "Kurdish, Yezidi"
+name: "Yezidi"
 region: "GE"
 sample_text {
   masthead_full: "𐺍𐺁𐺄𐺀"
